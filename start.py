@@ -1,5 +1,6 @@
 # don't forget that it is very important that you have installed the necessary packages for the bot to work properly. (Tweepy and Schedule)
 
+import os
 import tweepy
 import schedule
 import time
